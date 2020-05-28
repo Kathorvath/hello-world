@@ -1,2 +1,2 @@
 # hello-world
-ideas, notes, multi-purpose storage
+I'm working on creating python scripts that help to operate a custom, built portable mass spectrometer. 
